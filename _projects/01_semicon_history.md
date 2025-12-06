@@ -2,7 +2,7 @@
 layout: page
 title: Philippine Semiconductor Industry History
 description: History of Philippine Electronics and Semiconductor Industry, 1969 - 2025
-img: assets/img/sesa_inc.jpg
+img: assets/img/semiconductor_history.png
 importance: 1
 category: political economy
 ---
