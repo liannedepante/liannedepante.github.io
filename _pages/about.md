@@ -14,7 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-"The point is not only to understand the world, but to change it.”
+> Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an sie zu verändern.
+> — Karl Marx
+
+
 
 I’m an early-career academic with a multidisciplinary background in **political economy**, **public administration**, **Asian studies**, and **policy studies**. 
 
