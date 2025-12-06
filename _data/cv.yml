@@ -2,13 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Martin Bulla
-    - name: Date of Birth
-      value: 31st August 1981
+      value: Lianne Angelico Carreon Depante
     - name: Languages
       value: English, Filipino, Chinese, Japanese<em>basic</em>
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
     - title: Senior Lecturer
@@ -30,7 +28,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD (present)
+    - title: Doctor of Philosophy in Policy Studies (present)
       institution: National Graduate Institute for Policy Studies (GRIPS), Tokyo
       year: 2024
     - title: Master of Arts in Asia-Pacific Studies
