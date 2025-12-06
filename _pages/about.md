@@ -15,7 +15,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 > Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an sie zu verändern.
-> — Karl Marx
+> <br> — Karl Marx </br>
 
 
 
