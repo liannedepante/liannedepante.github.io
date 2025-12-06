@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repos/
-title: repos
+title: creative work
 description: selected
 nav: true
 nav_order: 3
