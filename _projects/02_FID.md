@@ -7,6 +7,4 @@ importance: 2
 category: policy studies
 ---
 
-With an international and diverse team of collaborators interested in avian fear responses and escape behavior, we are creating a [global and open-source database](https://sites.lifesci.ucla.edu/avian-flight-initiation-distances/) on escape distances of birds. 
-
-We aim to predict how bird species  respond to anthropogenic disturbance across taxonomic groups, accross the globe, and various contexts, having important implications for current wildlife conservation efforts.
+Using NLP techniques, we’re trying to dig into how evidence is utilized—in terms of types, uses, and rigor—in the Philippine House of Representative and Senate. The project is funded by both Philippine House of Representative and UP NCPAG GRIT Labs. 
