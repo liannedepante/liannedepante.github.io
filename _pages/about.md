@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. in Policy Studies Student, <a href='https://www.grips.ac.jp/en/'>National Graduate Institute for Policy Studies, Tokyo</a>
+subtitle: Ph.D. Student, Policy Studies, <a href='https://www.grips.ac.jp/en/'>National Graduate Institute for Policy Studies, Tokyo</a>
 profile:
   align: right
   image: me.jpg
@@ -16,11 +16,12 @@ social: false  # includes social icons at the bottom of the page
 
 "The point is not only to understand the world, but to change it.”
 
-I’m an early-career academic with a multidisciplinary background in political economy, public administration, Asian studies, and policy studies. 
+I’m an early-career academic with a multidisciplinary background in **political economy**, **public administration**, **Asian studies**, and **policy studies**. 
 
 Currently pursuing my Ph.D. at the National Graduate Institute for Policy Studies in Tokyo, I earned my Master of Arts from National Chengchi University and my Bachelor of Public Administration from the University of the Philippines. 
 
 As a scholar, I explore...
+
 - 
 -
 -
