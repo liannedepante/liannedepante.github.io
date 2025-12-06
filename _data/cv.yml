@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Lianne Angelico Carreon Depante
+    - name: Other Name
+      value: 黃聯梯
     - name: Languages
-      value: English, Filipino, Chinese, Japanese<em>basic</em>
+      value: English, Filipino, Chinese, Japanese
 
 - title: Work Experience
   type: time_table
@@ -12,18 +14,27 @@
     - title: Senior Lecturer
       institution: University of the Philippines Open University
       year: 2024 - present
-    - title: Assistant Professor
+    - title: Chairperson, Public Management Program
       institution: University of the Philippines Open University
       year: 2023 - 2024
-    - title: Senior Lecturer
+    - title: Assistant Professor
+      institution: University of the Philippines Open University
+      year: 2022 - 2024
+    - title: Affiliate Faculty
       institution: University of the Philippines Diliman
-      year: 2023 - 2024  
+      year: 2022 - 2023  
     - title: Teaching Associate
       institution: University of the Philippines Diliman
       year: 2019 - 2022
     - title: Senior Researcher
       institution: University of the Philippines Resilience Institute
-      year: 2016 - 2019
+      year: 2021 - 2022
+    - title: Junior Research and Project Assistant
+      institution: Center for Taiwan-Philippines Indigenous Knowledge, Local Knowledge, and Sustainable Studies, National Chengchi University
+      year: 2019 - 2020
+    - title: Research Assistant
+      institution: University of the Philippines Diliman
+      year: 2018
 
 - title: Education
   type: time_table
