@@ -1,10 +1,10 @@
 ---
 layout: page
-title: History of Philippine Electronics and Semiconductor Industry, 1969 - 2025
-description: Writing the history of the country's electronics and semiconductor industry
+title: Philippine Semiconductor Industry History
+description: History of Philippine Electronics and Semiconductor Industry, 1969 - 2025
 img: assets/img/sesa_inc.jpg
 importance: 1
-category: political economy of development
+category: political economy
 ---
 
 I am leading a comparative project bringing together shorebirdologists from various parts of the Globe to explore the diversity of shorebird incubation rhythms.
