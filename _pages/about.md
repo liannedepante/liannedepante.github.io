@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Student, Policy Studies, <a href='https://www.grips.ac.jp/en/'>National Graduate Institute for Policy Studies, Tokyo</a>
+<br> Senior Lecturer, <a href='https://fmds.upou.edu.ph/about-fmds/lianne-angelico-depante/'>University of the Philippines Open University, Tokyo</a>
 profile:
   align: right
   image: me.jpg
