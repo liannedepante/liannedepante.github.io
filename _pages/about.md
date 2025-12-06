@@ -6,7 +6,7 @@ subtitle: Ph.D. in Policy Studies Student, <a href='https://www.grips.ac.jp/en/'
 profile:
   align: right
   image: me.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
 
 news: false  # includes a list of news items
@@ -14,14 +14,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+"The point is not only to understand the world, but to change it.”
+
 I’m an early-career academic with a multidisciplinary background in political economy, public administration, Asian studies, and policy studies. 
 
 Currently pursuing my Ph.D. at the National Graduate Institute for Policy Studies in Tokyo, I earned my Master of Arts from National Chengchi University and my Bachelor of Public Administration from the University of the Philippines. 
 
-As an aspiring political economist, I explore...
-- <a href='https://www.nature.com/articles/s41598-019-41223-z'>rhythms of parental care</a> and <a href='https://doi.org/10.3389/fevo.2019.00093'>how such rhythms emerge</a>, 
--  <a href='https://www.nature.com/articles/nature20563'>within- and between-species differences in rhythmicities</a> and what may drive such differences, as well as
-- <a href='https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13662'>distribution and evolution of traits across the globe</a>
+As a scholar, I explore...
+- 
+-
+-
 
 For my **dissertation**, I intend to challenge how Philippine political economy is conventionally framed as neopatrimonial by looking at the history of the country's semiconductor industry.
 
