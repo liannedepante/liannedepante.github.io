@@ -1,10 +1,10 @@
 ---
 layout: page
-title: escape distances
-description: Global avian flight initiation distances.
+title: Project ELEPHANT
+description: Engaged Laboratory for Evidenced-based Policymaking Harnessing Advanced NLP Techniques
 img: assets/img/FID.png
 importance: 2
-category: science
+category: Policy Studies
 ---
 
 With an international and diverse team of collaborators interested in avian fear responses and escape behavior, we are creating a [global and open-source database](https://sites.lifesci.ucla.edu/avian-flight-initiation-distances/) on escape distances of birds. 
