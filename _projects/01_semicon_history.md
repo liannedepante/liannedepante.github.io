@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Philippine Semiconductor Industry History
+title: Philippine Semicon Industry History
 description: History of Philippine Electronics and Semiconductor Industry, 1969 - 2025
 img: assets/img/semiconductor_history.png
 importance: 1
 category: political economy
 ---
 
-I am leading a comparative project bringing together shorebirdologists from various parts of the Globe to explore the diversity of shorebird incubation rhythms.
+I intend to challenge how Philippine politics is conventionally framed by looking at the history of the country's semiconductor industry.
 
 First, we collected data on biparentally incubating shorebirds and showed unexpected between- and within-species diversity of incubation rhythms and that latitudinal cline in diel-light changes and anti-predation strategy of the species shape the rhythms (see <a href='http://rdcu.be/mUso'>the paper</a> and <a href='https://ecoevocommunity.nature.com/posts/13472-bringing-chronobiology-into-the-wild'>the blog-post on how this came to be</a>). 
 
