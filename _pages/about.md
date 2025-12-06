@@ -9,7 +9,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
@@ -19,12 +19,6 @@ social: false  # includes social icons at the bottom of the page
 I’m an early-career academic with a multidisciplinary background in **political economy**, **public administration**, **Asian studies**, and **policy studies**. 
 
 Currently pursuing my Ph.D. at the National Graduate Institute for Policy Studies in Tokyo, I earned my Master of Arts from National Chengchi University and my Bachelor of Public Administration from the University of the Philippines. 
-
-As a scholar, I explore...
-
-- 
--
--
 
 For my **dissertation**, I intend to challenge how Philippine political economy is conventionally framed as neopatrimonial by looking at the history of the country's semiconductor industry.
 
