@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Served as a moderator for UP CIDS Political Economy Program's _Harnessing Public Procurement for Agricultural Mechanization and Industrial Growth_
+title: Testing
 date: 2025-12-02 16:11:00-0400
 inline: false
 ---
