@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 
+Page under construction. For now, please listen to our songs <a href="https://www.youtube.com/playlist?list=PLUPlFr5hU6jcyUaTClOsIME1C6Qlfaque" target="_blank">here</a>.
+
+{% comment %}
 <--! ### GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -31,3 +34,5 @@ nav_order: 3
 </div>
 {% endif %}
 -->
+{% endcomment %}
+\
