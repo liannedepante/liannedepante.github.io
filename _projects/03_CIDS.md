@@ -1,7 +1,7 @@
 ---
 layout: page
-title: comparative analysis of Taiwan and Philippine semiconductor industry
-description: Semiconductor Industry Development in Taiwan and the Philippines: Comparative Insights for the Global South
+title: "Comparative analysis of Taiwan and Philippine semiconductor industry"
+description: "Semiconductor Industry Development in Taiwan and the Philippines: Comparative Insights for the Global South"
 img: assets/img/project-cids.jpg
 importance: 3
 category: political economy
