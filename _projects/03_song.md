@@ -1,14 +1,10 @@
 ---
 layout: page
-title: passerine song
-description: Global patterns & evolution of passerine song
-img: assets/img/song.jpg
+title: comparative analysis, Taiwan and Philippine semiconductor industry
+description: Semiconductor Industry Development in Taiwan and the Philippines: Comparative Insights for the Global South
+img: assets/img/project-cids.jpg
 importance: 3
-category: science
+category: political economy
 ---
 
-We are co-leading a comparative project within which we investigate global patterns and evolution of passerine song. Peter Mikula collected song recordings from open song libraries and extract peak song frequency and song complexity.
-
-We then used the peak song frequency to reveal a lack of support for the acoustic adaptation hypothesis (see <a href='https://doi.org/10.1111/ele.13662'>the paper</a> 
-
-Second, we are currently investigating the distribution and drivers of the song complexity of passerines.
+Together with Kirsten Dedase, I am comparing the development of the semiconductor industries in Taiwan and the Philippines to thresh out possible policy lessons for developing countries. The project is supported by UP Center for Integrative and Development Studies, Political Economy Program.
