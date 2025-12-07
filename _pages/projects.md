@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 1
 display_categories: [political economy, policy studies]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
