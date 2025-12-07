@@ -9,7 +9,7 @@ category: political economy
 
 I intend to challenge how Philippine politics is conventionally framed by looking at the history of the country's semiconductor industry.
 
-First, we collected data on biparentally incubating shorebirds and showed unexpected between- and within-species diversity of incubation rhythms and that latitudinal cline in diel-light changes and anti-predation strategy of the species shape the rhythms (see <a href='http://rdcu.be/mUso'>the paper</a> and <a href='https://ecoevocommunity.nature.com/posts/13472-bringing-chronobiology-into-the-wild'>the blog-post on how this came to be</a>). 
+<-- First, we collected data on biparentally incubating shorebirds and showed unexpected between- and within-species diversity of incubation rhythms and that latitudinal cline in diel-light changes and anti-predation strategy of the species shape the rhythms (see <a href='http://rdcu.be/mUso'>the paper</a> and <a href='https://ecoevocommunity.nature.com/posts/13472-bringing-chronobiology-into-the-wild'>the blog-post on how this came to be</a>). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,3 +47,5 @@ Third, we are collecting data on uniparentally incubating shorebirds to reveal t
 <div class="caption">
     The map depicts sites where data on given species (color) were collected.
 </div>
+
+-->
