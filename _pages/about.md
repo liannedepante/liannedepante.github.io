@@ -24,4 +24,4 @@ Currently pursuing my Ph.D. at the National Graduate Institute for Policy Studie
 
 For my **dissertation**, I intend to challenge how Philippine political economy is conventionally framed as neopatrimonial by looking at the history of the country's semiconductor industry. 
 
-For consultations and inquiries, please book <a href='https://fantastical.app/ladepante'>here</a>
+I am always open to collaborations and opportunities! For inquiries, please email <a href='mailto: lcdepante@up.edu.ph'>me</a> or book a consultation <a href='https://fantastical.app/ladepante'>here</a>.
