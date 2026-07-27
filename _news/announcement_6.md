@@ -4,4 +4,4 @@ date: 2026-1-19 07:59:00-0400
 inline: true
 ---
 
-I served as a reactor to Ms. Asako Osaki's (Gender Action Platform) talk on "Japan’s Gender Equality Policies in the Context of Global Trends" at the GRIPS Forum.
+Our op-ed, “Tilting Pax Silica in our favor” has been published in the <a srec="https://opinion.inquirer.net/192382/tilting-pax-silica-in-our-favor">Philippine Daily Inquirer</a>.
