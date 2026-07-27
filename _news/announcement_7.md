@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2026-6-14 07:59:00-0400
+date: 2026-7-23 07:59:00-0400
 inline: true
 ---
 
-Our op-ed, “Tilting Pax Silica in our favor” has been published in the <a href='https://opinion.inquirer.net/192382/tilting-pax-silica-in-our-favor'>Philippine Daily Inquirer</a>.
+<a href="https://cids.up.edu.ph/download/semiconductor-industry-development-taiwan-philippines-comparative-insights-global-south/">UP Center for Integrative and Development Studies</a> has published our discussion paper, “Semiconductor Industry Development in Taiwan and the Philippines: Comparative Insights for the Global South.”
