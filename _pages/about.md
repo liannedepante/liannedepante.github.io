@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 > Die Philosophen haben die Welt nur verschieden interpretiert, es kömmt drauf an sie zu verändern.
 > <br> — Karl Marx
 
-I’m an early-career academic with a multidisciplinary background in **political economy**, **public administration**, **Asian studies**, and **policy studies**. 
+I’m an early-career academic with a multidisciplinary background in **political economy**, **public administration**, **policy studies**, and **industrial and SME policies**. 
 
 Currently pursuing my Ph.D. at the National Graduate Institute for Policy Studies (GRIPS) in Tokyo, I earned my Master of Arts from National Chengchi University and my Bachelor of Public Administration from the University of the Philippines. 
 
