@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Ph.D. Candidate, Policy Studies, <a href='https://www.grips.ac.jp/g-cube/en/currentstudents-cat/2024/'>National Graduate Institute for Policy Studies (GRIPS), Tokyo</a><br>
           Senior Lecturer, <a href='https://fmds.upou.edu.ph/about-fmds/lianne-angelico-depante/'>University of the Philippines Open University<br></a>
-          Fellow, UP NCPAG GRIT Labs<br></a>  
+          Fellow, <a='https://web.facebook.com/UPNCPAGGRITLabs/'>UP NCPAG GRIT Labs<br></a>  
 profile:
   align: right
   image: me.jpg
