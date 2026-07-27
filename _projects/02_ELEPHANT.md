@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project.elehepant
+title: project.elephant
 description: Engaged Laboratory for Evidenced-based Policymaking Harnessing Advanced NLP Techniques
 img: assets/img/ELEPHANT_1.png
 importance: 2
